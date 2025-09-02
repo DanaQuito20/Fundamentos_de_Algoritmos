@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\Sem3\FA\FA - Sem3\bin\Debug\FA - Sem3.exe.config
+C:\Users\UPN\Desktop\Sem3\FA\FA - Sem3\bin\Debug\FA - Sem3.exe
+C:\Users\UPN\Desktop\Sem3\FA\FA - Sem3\bin\Debug\FA - Sem3.pdb
+C:\Users\UPN\Desktop\Sem3\FA\FA - Sem3\obj\Debug\FA - Sem3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Sem3\FA\FA - Sem3\obj\Debug\FA - Sem3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Sem3\FA\FA - Sem3\obj\Debug\FA - Sem3.exe
+C:\Users\UPN\Desktop\Sem3\FA\FA - Sem3\obj\Debug\FA - Sem3.pdb
+C:\Users\UPN\Desktop\Sem3\FA\FA - Sem3\obj\Debug\FA - Sem3.exe.config
