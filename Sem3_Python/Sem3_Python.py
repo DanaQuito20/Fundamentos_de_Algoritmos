@@ -16,4 +16,15 @@ def ej3():
     division = num1 / num2
 
     print("La suma es", suma, "la resta es", resta, "la multiplicacion es", multiplicacion, "y la division es", division,".")
-ej3()
+
+import math #Importando librería math
+def ej4():
+    num = float(input("Ingrese un decimal: "))
+
+    raizCuadrada = math.sqrt(num)
+    valorEntero = round(num, 2)
+    elevarCubo = math.pow(num, 3)
+    raizCubica = num ** (1 / 3)
+    print("La raiz cuadrada es", raizCuadrada, "el valor entero es", valorEntero, "la elevacion al cubo es", elevarCubo, "y la raíz cúbica es", raizCubica,".")
+
+ej4()

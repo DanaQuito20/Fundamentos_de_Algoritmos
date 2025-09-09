@@ -58,14 +58,14 @@ namespace FA___Sem3
             double num, raizCuadrada, valorEntero, elevarCubo, raizCubica;
 
             Console.Write("Ingrese un decimal: ");
-            num = Convert.ToDouble(Console.ReadLine());
+            num = Double.Parse(Console.ReadLine());
 
             raizCuadrada = Math.Sqrt(num);
-            valorEntero = Math.Round(num);
+            valorEntero = Math.Round(num, 2);
             elevarCubo = Math.Pow(num, 3);
             raizCubica = Math.Pow(num, 1.0 / 3.0);
 
-            Console.WriteLine($"La raíz cuadrada es {raizCuadrada}, el valor redondeado es {valorEntero}, el resultado de elevar al cubo es {elevarCubo} y la raíz cúbica es {raizCubica}.");
+            Console.WriteLine($"La raíz cuadrada es {raizCuadrada}, el valor redondeado es {valorEntero}, la elevacion al cubo es {elevarCubo} y la raíz cúbica es {raizCubica}.");
         }
 
 
