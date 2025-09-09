@@ -10,7 +10,7 @@ namespace FA___Sem3
     {
         static void Main(string[] args)
         {
-            ej1();
+            ej2();
             Console.ReadKey();
         }
 
@@ -30,7 +30,7 @@ namespace FA___Sem3
 
         static void ej2()
         {
-
+            Console.WriteLine("\"Danayra\"");
         }
 
 
@@ -46,6 +46,10 @@ namespace FA___Sem3
 
             Console.WriteLine("Ingrese un decimal: ");
             num = Convert.ToDouble(Console.ReadLine());
+            raizCuadrada = Math.Sqrt(num);
+            valorEntero = Math.Round(num);
+            elevarCubo = Math.Pow(num, 3);
+            
         }
 
 
