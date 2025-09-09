@@ -10,7 +10,7 @@ namespace FA___Sem3
     {
         static void Main(string[] args)
         {
-            ej4();
+            ej5();
             Console.ReadKey();
         }
 
@@ -71,7 +71,19 @@ namespace FA___Sem3
 
         static void ej5()
         {
+            string num;
+            int entero;
+            double decima, resto, division;
 
+            Console.Write("Ingrese un número: ");
+            num = Console.ReadLine();
+            entero = int.Parse(num);
+            decima = double.Parse(num);
+
+            resto = entero % 2;
+            division = decima / 3;
+
+            Console.WriteLine($"El resto es {resto} y la division es {division}.");
         }
 
 

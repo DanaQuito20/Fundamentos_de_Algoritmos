@@ -25,6 +25,18 @@ def ej4():
     valorEntero = round(num, 2)
     elevarCubo = math.pow(num, 3)
     raizCubica = num ** (1 / 3)
+
     print("La raiz cuadrada es", raizCuadrada, "el valor entero es", valorEntero, "la elevacion al cubo es", elevarCubo, "y la raíz cúbica es", raizCubica,".")
+
+def ej5():
+    num = input("Ingrese un numero: ")
+
+    entero = int(num)
+    decim = float(num)
+
+    resto = entero % 2
+    division = decim / 3
+
+    print("El resto es", resto, "y la division es", division, ".")
 
 ej4()
