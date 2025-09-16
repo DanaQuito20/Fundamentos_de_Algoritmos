@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BA584389-5F68-4005-AF85-9AF04F767693}</ProjectGuid>
+    <ProjectGuid>{9DF259F9-23B8-4AA6-BD4E-9CA265F20F5E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FA___Sem3</RootNamespace>
-    <AssemblyName>FA - Sem3</AssemblyName>
+    <RootNamespace>Semana4_C_</RootNamespace>
+    <AssemblyName>Semana4_C#</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Semana4_C_.Ejercicio4</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,7 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Sem3_C#.cs" />
+    <Compile Include="Ejercicio1.cs" />
+    <Compile Include="Ejercicio2.cs" />
+    <Compile Include="Ejercicio3.cs" />
+    <Compile Include="Ejercicio4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
