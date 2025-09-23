@@ -4,13 +4,14 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>558079f4-f179-42ff-b603-09624ef235e1</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Semana5_PY.py</StartupFile>
+    <StartupFile>Ejercicio4.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>Semana5_PY</Name>
     <RootNamespace>Semana5_PY</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -25,7 +26,6 @@
     <Compile Include="Ejercicio2.py" />
     <Compile Include="Ejercicio3.py" />
     <Compile Include="Ejercicio4.py" />
-    <Compile Include="Semana5_PY.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
