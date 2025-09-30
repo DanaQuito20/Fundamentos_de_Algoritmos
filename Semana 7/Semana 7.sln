@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana 7", "Semana 7\Semana 7.csproj", "{6E37709E-21E8-4AFF-918B-5310288A61CB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Semana7_LA", "Semana7_LA\Semana7_LA.pyproj", "{470CF183-BEED-489B-84DB-485303D1725E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E37709E-21E8-4AFF-918B-5310288A61CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E37709E-21E8-4AFF-918B-5310288A61CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E37709E-21E8-4AFF-918B-5310288A61CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E37709E-21E8-4AFF-918B-5310288A61CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{470CF183-BEED-489B-84DB-485303D1725E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470CF183-BEED-489B-84DB-485303D1725E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAB65140-23CA-42AE-8C9C-1B7427602CF1}
+	EndGlobalSection
+EndGlobal
