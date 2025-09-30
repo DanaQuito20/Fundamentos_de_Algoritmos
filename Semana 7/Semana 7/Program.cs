@@ -41,7 +41,7 @@ namespace Semana_7
 
 
 
-            //Utilizando For
+            /*//Utilizando For
             Console.WriteLine("Caso con For: ");
             for (int i = 10; i >= 1; i--)
             {
@@ -65,6 +65,53 @@ namespace Semana_7
                 Console.Write(k + " ");
                 k--;
             } while (k >= 1);
+
+            Console.ReadKey();*/
+
+
+
+
+
+            //Casuística 1
+            /*int estudiantes, i = 1, edad, suma = 0;
+            double promedio;
+
+            Console.Write("Ingrese la cantidad de estudiantes: ");
+            estudiantes = int.Parse(Console.ReadLine());
+
+            while (i <= estudiantes)
+            {
+                Console.Write($"Ingrese la edad del estudiante {i}: ");
+                edad = int.Parse(Console.ReadLine());
+                i++;
+                suma += edad;
+            }
+
+            promedio = suma * 1.0 / estudiantes;
+
+            Console.WriteLine($"El promedio de los {estudiantes} estudiantes es de {promedio}");
+
+            Console.ReadKey();*/
+
+
+
+            //Casuística 2
+            int estudiantes, i = 1, edad, menorE = 0, mayorE = 0;
+
+            Console.Write("Ingrese la cantidad de estudiantes: ");
+            estudiantes = int.Parse(Console.ReadLine());
+
+            while (i <= estudiantes)
+            {
+                Console.Write($"Ingrese la edad de la persona {i}: ");
+                edad = int.Parse(Console.ReadLine());
+                i++;
+                
+                if (edad < 18) menorE++;
+                else mayorE++;
+            }
+
+            Console.WriteLine($"Hay {menorE} estudiantes menores de edad y {mayorE} estudiantes mayores de edad");
 
             Console.ReadKey();
         }
