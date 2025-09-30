@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>20daac04-a6ad-4161-94de-af6fa5994143</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Ejercicio2.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,8 +25,6 @@
   <ItemGroup>
     <Compile Include="Ejercicio1.py" />
     <Compile Include="Ejercicio2.py" />
-    <Compile Include="Ejercicio3.py" />
-    <Compile Include="Ejercicio4.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

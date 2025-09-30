@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana5_C#", "Semana5_C#\Se
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Semana6_PY", "Semana6_PY\Semana6_PY.pyproj", "{20DAAC04-A6AD-4161-94DE-AF6FA5994143}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana6_C#", "Semana6_C#\Semana6_C#.csproj", "{E7C0E84A-A3BA-4D67-9E67-87F108214025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana7_C#", "Sem\Semana7_C#.csproj", "{E1CFACA1-DBEA-425D-8053-F798E4E62090}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{CFEE76DE-A896-40A7-A39E-3F8FF3462236}.Release|Any CPU.Build.0 = Release|Any CPU
 		{20DAAC04-A6AD-4161-94DE-AF6FA5994143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{20DAAC04-A6AD-4161-94DE-AF6FA5994143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C0E84A-A3BA-4D67-9E67-87F108214025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C0E84A-A3BA-4D67-9E67-87F108214025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C0E84A-A3BA-4D67-9E67-87F108214025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C0E84A-A3BA-4D67-9E67-87F108214025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1CFACA1-DBEA-425D-8053-F798E4E62090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1CFACA1-DBEA-425D-8053-F798E4E62090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1CFACA1-DBEA-425D-8053-F798E4E62090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1CFACA1-DBEA-425D-8053-F798E4E62090}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

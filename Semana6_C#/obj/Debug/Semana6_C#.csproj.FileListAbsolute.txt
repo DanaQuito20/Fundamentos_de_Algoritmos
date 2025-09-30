@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Semana6_C#\bin\Debug\Semana6_C#.exe.config
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Semana6_C#\bin\Debug\Semana6_C#.exe
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Semana6_C#\bin\Debug\Semana6_C#.pdb
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Semana6_C#\obj\Debug\Semana6_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Semana6_C#\obj\Debug\Semana6_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Semana6_C#\obj\Debug\Semana6_C#.exe
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Semana6_C#\obj\Debug\Semana6_C#.pdb
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Semana6_C#\obj\Debug\Semana6_C#.exe.config
