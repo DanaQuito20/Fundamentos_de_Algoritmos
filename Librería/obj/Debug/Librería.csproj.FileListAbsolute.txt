@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Librería\bin\Debug\Librería.dll
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Librería\bin\Debug\Librería.pdb
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Librería\obj\Debug\Librería.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Librería\obj\Debug\Librería.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Librería\obj\Debug\Librería.dll
+C:\Users\UPN\Desktop\DQ\Fundamentos_de_Algoritmos\Librería\obj\Debug\Librería.pdb
