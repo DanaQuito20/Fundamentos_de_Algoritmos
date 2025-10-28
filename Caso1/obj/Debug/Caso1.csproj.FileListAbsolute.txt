@@ -1,0 +1,16 @@
+C:\Users\UPN\Desktop\Sem11\Caso1\bin\Debug\Caso1.exe.config
+C:\Users\UPN\Desktop\Sem11\Caso1\bin\Debug\Caso1.exe
+C:\Users\UPN\Desktop\Sem11\Caso1\bin\Debug\Caso1.pdb
+C:\Users\UPN\Desktop\Sem11\Caso1\obj\Debug\Caso1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Sem11\Caso1\obj\Debug\Caso1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Sem11\Caso1\obj\Debug\Caso1.exe
+C:\Users\UPN\Desktop\Sem11\Caso1\obj\Debug\Caso1.pdb
+C:\Users\UPN\Desktop\Sem11\Caso1\obj\Debug\Caso1.exe.config
+C:\Users\UPN\Desktop\Sem11\Fundamentos_de_Algoritmos\Caso1\obj\Debug\Caso1.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Sem11\Fundamentos_de_Algoritmos\Caso1\obj\Debug\Caso1.exe.config
+C:\Users\UPN\Desktop\Sem11\Fundamentos_de_Algoritmos\Caso1\obj\Debug\Caso1.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Sem11\Fundamentos_de_Algoritmos\Caso1\obj\Debug\Caso1.exe
+C:\Users\UPN\Desktop\Sem11\Fundamentos_de_Algoritmos\Caso1\obj\Debug\Caso1.pdb
+C:\Users\UPN\Desktop\Sem11\Fundamentos_de_Algoritmos\Caso1\bin\Debug\Caso1.exe.config
+C:\Users\UPN\Desktop\Sem11\Fundamentos_de_Algoritmos\Caso1\bin\Debug\Caso1.exe
+C:\Users\UPN\Desktop\Sem11\Fundamentos_de_Algoritmos\Caso1\bin\Debug\Caso1.pdb
