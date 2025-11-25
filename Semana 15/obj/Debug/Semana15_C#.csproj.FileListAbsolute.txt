@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\Quito\Fundamentos_de_Algoritmos\Semana 15\bin\Debug\Semana 15.exe.config
+C:\Users\UPN\Desktop\Quito\Fundamentos_de_Algoritmos\Semana 15\bin\Debug\Semana 15.exe
+C:\Users\UPN\Desktop\Quito\Fundamentos_de_Algoritmos\Semana 15\bin\Debug\Semana 15.pdb
+C:\Users\UPN\Desktop\Quito\Fundamentos_de_Algoritmos\Semana 15\obj\Debug\Semana15_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Quito\Fundamentos_de_Algoritmos\Semana 15\obj\Debug\Semana 15.exe.config
+C:\Users\UPN\Desktop\Quito\Fundamentos_de_Algoritmos\Semana 15\obj\Debug\Semana15_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Quito\Fundamentos_de_Algoritmos\Semana 15\obj\Debug\Semana 15.exe
+C:\Users\UPN\Desktop\Quito\Fundamentos_de_Algoritmos\Semana 15\obj\Debug\Semana 15.pdb
