@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\Quito\Arreglos Bidimensionales\bin\Debug\Arreglos Bidimensionales.exe.config
+C:\Users\UPN\Desktop\Quito\Arreglos Bidimensionales\bin\Debug\Arreglos Bidimensionales.exe
+C:\Users\UPN\Desktop\Quito\Arreglos Bidimensionales\bin\Debug\Arreglos Bidimensionales.pdb
+C:\Users\UPN\Desktop\Quito\Arreglos Bidimensionales\obj\Debug\Arreglos Bidimensionales.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Quito\Arreglos Bidimensionales\obj\Debug\Arreglos Bidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Quito\Arreglos Bidimensionales\obj\Debug\Arreglos Bidimensionales.exe
+C:\Users\UPN\Desktop\Quito\Arreglos Bidimensionales\obj\Debug\Arreglos Bidimensionales.pdb
+C:\Users\UPN\Desktop\Quito\Arreglos Bidimensionales\obj\Debug\Arreglos Bidimensionales.exe.config
